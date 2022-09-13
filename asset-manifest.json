@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jira-replica/static/css/main.e6c13ad2.css",
+    "main.js": "/jira-replica/static/js/main.8bdf8362.js",
+    "static/js/787.f9b6895a.chunk.js": "/jira-replica/static/js/787.f9b6895a.chunk.js",
+    "index.html": "/jira-replica/index.html",
+    "main.e6c13ad2.css.map": "/jira-replica/static/css/main.e6c13ad2.css.map",
+    "main.8bdf8362.js.map": "/jira-replica/static/js/main.8bdf8362.js.map",
+    "787.f9b6895a.chunk.js.map": "/jira-replica/static/js/787.f9b6895a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8bdf8362.js"
+  ]
+}
